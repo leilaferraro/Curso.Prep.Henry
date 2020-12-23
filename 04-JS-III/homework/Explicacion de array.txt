@@ -1,0 +1,2 @@
+Explicacion de array
+Son como listas que contienen todo tipo de elementos donde tiene un orden cada elemento. Pueden anidar funciones e incluso otras listas

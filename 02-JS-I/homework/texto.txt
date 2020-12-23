@@ -1,0 +1,11 @@
+Explicaciones de conceptos
+
+Variables: sirven para almacenar info que se puede usar más tarde
+
+Strings: son conjuntos de caracteres que pueden formar palabras. Se escribe entre comillas
+
+Funciones (argumentos, return): los argumentos sirven como variables para la funcion. El return sirve cuando queremos que la función nos devuelva algo
+
+Declaraciones if: sirve para crear funciones con condiciones
+
+Valores booleanos (true, false): significa si es verdadero o falso

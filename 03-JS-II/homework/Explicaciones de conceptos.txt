@@ -1,0 +1,8 @@
+Explicaciones de conceptos
+
+for: sirve para generar repeticiones tipo bucle, declarandole una variable que sirve para que sepa como ejecutar la repetición, una condición para que se repita hasta donde queramos y al final como se incrementará esa variable.
+
+Los operadores lógicos son los siguientes y sirven para determinar valores booleanos
+&&: es el "y" de una expresión y evaluará si las dos partes por igual son false o true.
+||: es el "o" de una expresión y devuelve true si solo una o ambas son true. De modo que para que sea false las dos deben ser false
+!: al referirse a un "not" devuelve el valor opuesto a la expresión.
